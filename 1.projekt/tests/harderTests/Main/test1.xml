@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program language="IPPcode18">
+  <instruction order="1" opcode="DEFVAR">
+    <arg1 type="var">GF@counter</arg1>
+  </instruction>
+  <instruction order="2" opcode="CREATEFRAME"/>
+  <instruction order="3" opcode="DEFVAR">
+    <arg1 type="var">TF@docasna</arg1>
+  </instruction>
+  <!--<instruction order="1" opcode="DEFVAR">-->
+    <!--<arg1 type="var">GF@counter</arg1>-->
+    <!--<arg1 type="var">GF@counter</arg1>-->
+  <!--</instruction>-->
+  <!--<instruction order="2" opcode="MOVE">-->
+    <!--<arg1 type="var">GF@counter</arg1>-->
+    <!--<arg2 type="string"></arg2>-->
+  <!--</instruction>-->
+  <!--<instruction order="2" opcode="TYPE">-->
+    <!--<arg1 type="string"></arg1>-->
+    <!--<arg2 type="string"></arg2>-->
+    <!--<arg3 type="string"></arg3>-->
+  <!--</instruction>-->
+  <!--<instruction order="2" opcode="DEFVAR">-->
+    <!--<arg1 type="var">GF@geege</arg1>-->
+  <!--</instruction>-->
+   <!--<instruction order="3" opcode="DEFVAR">-->
+    <!--<arg1 type="var">GF@lol</arg1>-->
+  <!--</instruction>-->
+  <!--<instruction order="4" opcode="MOVE">-->
+    <!--<arg1 type="var">GF@counter</arg1>-->
+    <!--<arg2 type="int">32</arg2>-->
+  <!--</instruction>-->
+     <!--<instruction order="5" opcode="MOVE">-->
+    <!--<arg1 type="var">GF@geege</arg1>-->
+    <!--<arg2 type="int">12</arg2>-->
+  <!--</instruction>-->
+  <!--<instruction order="6" opcode="ADD">-->
+    <!--<arg1 type="var">GF@counter</arg1>-->
+    <!--<arg2 type="int">178</arg2>-->
+    <!--<arg3 type="int">27</arg3>-->
+ <!--</instruction>-->
+ <!--<instruction order="6" opcode="ADD">-->
+    <!--<arg1 type="var">GF@counter</arg1>-->
+    <!--<arg2 type="int">222</arg2>-->
+    <!--<arg3 type="int">27</arg3>-->
+ <!--</instruction>-->
+ <!--<instruction order="7" opcode="SUB">-->
+    <!--<arg1 type="var">GF@counter</arg1>-->
+    <!--<arg2 type="int">178</arg2>-->
+    <!--<arg3 type="int">27</arg3>-->
+ <!--</instruction>-->
+ <!--<instruction order="8" opcode="MUL">-->
+    <!--<arg1 type="var">GF@counter</arg1>-->
+    <!--<arg2 type="int">178</arg2>-->
+    <!--<arg3 type="int">27</arg3>-->
+ <!--</instruction>-->
+ <!--<instruction order="9" opcode="IDIV">-->
+    <!--<arg1 type="var">GF@counter</arg1>-->
+    <!--<arg2 type="int">10</arg2>-->
+    <!--<arg3 type="int">3</arg3>-->
+ <!--</instruction>-->
+  <!--<instruction order="10" opcode="LT">-->
+  <!--<arg1 type="var">GF@counter</arg1>-->
+  <!--<arg2 type="int">222</arg2>-->
+  <!--<arg3 type="int">12</arg3>-->
+ <!--</instruction>-->
+ <!--<instruction order="11" opcode="GT">-->
+  <!--<arg1 type="var">GF@counter</arg1>-->
+  <!--<arg2 type="int">222</arg2>-->
+  <!--<arg3 type="int">12</arg3>-->
+ <!--</instruction>-->
+ <!--<instruction order="13" opcode="EQ">-->
+  <!--<arg1 type="var">GF@counter</arg1>-->
+  <!--<arg2 type="int">222</arg2>-->
+  <!--<arg3 type="int">222</arg3>-->
+ <!--</instruction>-->
+</program>

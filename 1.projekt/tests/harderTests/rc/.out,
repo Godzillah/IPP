@@ -1,0 +1,10 @@
+		---> Usage: interpret.py [options] <---
+[*******************************************************************************]
+[	Options:								]
+[		--help            will show help				]
+[		--source=file.txt 						]
+[	Example:								]
+[		python3.6 interpret.py --help 					]
+[		python3.6 interpret.py --source=file.txt			]
+[*******************************************************************************]
+

@@ -1,0 +1,23 @@
+Archive:  xorsak02.zip
+  inflating: parse.php               
+  inflating: rozsireni               
+		---> Usage: parser.php [options] <---
+[*******************************************************************************]
+[	Options:								]
+[		--help            will show help				]
+[		--stats=file.txt --comments --loc				]
+[		--stats=file.txt --comments					]
+[		--stats=file.txt --loc						]
+[	       YOU CAN DO IT IN ANY ORDER					]
+[	Example:								]
+[		php5.6 parse.php --help 					]
+[		php5.6 parse.php --stats=file.txt --comments -loc < test.txt 	]
+[		php5.6 parse.php --stats=file.txt --comments < test.txt 	]
+[		php5.6 parse.php --stats=file.txt --loc < test.txt 		]
+[		php5.6 parse.php < test.txt 					]
+[*******************************************************************************]
+dos2unix: converting file rozsireni to file rozsireni.lf in Unix format ...
+1c1
+< STATP
+---
+> STATP
